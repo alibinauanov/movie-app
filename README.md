@@ -11,7 +11,7 @@ and integrates Redux. The implementation involves advanced JavaScript logic to e
 interactivity and aesthetics of the application.
 
 ## Screenshots: 📷
-<img src="https://github.com/alibinauanov/movie-app/blob/main/movix.gif" width="500" height="400">
+<img src="https://github.com/alibinauanov/movie-app/blob/main/movix.gif" width="450" height="400">
 
 ## Technologies Used: ☕️ 🐍 ⚛️
 * React.js
