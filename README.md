@@ -11,7 +11,7 @@ and integrates Redux. The implementation involves advanced JavaScript logic to e
 interactivity and aesthetics of the application.
 
 ## Screenshots: 📷
-<img src="[https://github.com/alibinauanov/vue-weather/blob/main/weather.gif](https://github.com/alibinauanov/movie-app/blob/main/movix.gif)" width="300" height="400">
+<img src="https://github.com/alibinauanov/movie-app/blob/main/movix.gif" width="300" height="400">
 
 ## Technologies Used: ☕️ 🐍 ⚛️
 * React.js
@@ -33,7 +33,7 @@ React->JavaScript
 ```npm run dev```
 
 #### API
-Open this [link]([url]([https://home.openweathermap.org/api_keys](https://www.themoviedb.org/settings/api))) and have your own API KEY.</br>
+Open this [link]([url](https://www.themoviedb.org/settings/api) and have your own API KEY.</br>
 
 ## Approach: 🚶
 The code reflects a well-organized and structured approach to building a movie database application using React, Redux, and SCSS. 
